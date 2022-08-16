@@ -1,5 +1,7 @@
 import {Person} from './class.js';
-// Encapsulations
+// OOP allows the developers to build applications with reusable and maitainable blocks of code, 
+// which leads to efficincy and simplified software design.
+// 1-Encapsulations
 // Avoid direct access and illegal access.
 // Reduce human errors.
 // Make the app more felxbile and readable.
