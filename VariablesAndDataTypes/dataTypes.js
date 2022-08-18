@@ -32,3 +32,4 @@ let obj={
     firstName:"abdallah",
     lastName:"attallah"
 }
+let arr=[1,2,3];
