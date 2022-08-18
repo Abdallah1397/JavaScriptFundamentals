@@ -41,5 +41,5 @@ const f=2;
 console.log(w);  // print undefiend
 var w=5; 
 
-// console.log(z);  // reference error
+// console.log(z);  //  reference error
 let z=5; 
