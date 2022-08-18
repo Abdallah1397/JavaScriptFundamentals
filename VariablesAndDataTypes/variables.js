@@ -12,7 +12,7 @@
 // Reassign                |      Can be             |             Can be                 |                    Can't
 //                         |                         |                                    |
 // Acessing variable       |                         |                                    |                   
-// before it's defiend     |      undefiend          |         Reference Error            |                 Refference Error  
+// before it's defiend     |      undefiend          |         Reference Error            |                 Reference Error  
 //                         |                         |                                    | 
 // Create properties in    |                         |                                    |
 // window object           |       Create            |             Doesn't                |                     Doesn't
